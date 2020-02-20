@@ -21,3 +21,4 @@ deploy:
   on:
     repo: ioos/comt-landing
     branch: master
+    tags: true
