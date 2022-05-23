@@ -94,6 +94,42 @@ header {
   margin-top: 15px;
 }
 
+.panel-heading .accordion-toggle:after {
+  /* symbol for "opening" panels */
+  font-family: 'Glyphicons Halflings';  /* essential for enabling glyphicon */
+  content: "\e114";    /* adjust as needed, taken from bootstrap.css */
+  float: right;        /* adjust as needed */
+  color: grey;         /* adjust as needed */
+}
+.panel-heading .accordion-toggle.collapsed:after {
+  /* symbol for "collapsed" panels */
+  content: "\e080";    /* adjust as needed, taken from bootstrap.css */
+}
+
+.panel-heading {
+  background-color: #efefef;
+  padding: 30px;
+}
+
+.panel {
+  border-color: #fff;
+}
+
+.accordion-toggle {
+  color: #003087;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.accordion-toggle:hover {
+  color: #122b4d;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+h3 {
+  color: #003087;
+}
 
 #navbar a {
   font-family: Roboto, Arial, Helvetica, sans-serif;
@@ -849,8 +885,26 @@ nav.nav-list {
 }
 
 #main-container.comt .row:last-of-type h2 {
-  text-align   : center;
   margin-bottom: 20px;
+  text-align: left;
+  color: #003087;
+}
+
+#main-container.comt .row:last-of-type p {
+  font-size: 16px;
+}
+
+#main-container.comt .row .col-md-12 p {
+  font-size: 16px;
+}
+
+#main-container.comt .row .col-md-12 h1 {
+  color: #003087;
+}
+
+#main-container.comt .row .col-md-12 img {
+  display: block;
+  margin: auto;
 }
 
 .project-snippet-fade {
