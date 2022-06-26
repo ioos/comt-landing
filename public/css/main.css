@@ -107,12 +107,16 @@ header {
 }
 
 .panel-heading {
-  background-color: #efefef;
+  /* background-color: #efefef; */
   padding: 30px;
 }
 
 .panel {
   border-color: #fff;
+}
+
+.gray-background {
+  background-color: #efefef;
 }
 
 .accordion-toggle {

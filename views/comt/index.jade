@@ -11,7 +11,7 @@ block body
     - var projectThumbs1 =  ''
     each project in projects
         if (project.title_key == "cb_hypoxia" || project.title_key == "gom_hypoxia" || project.title_key == "extratropical_inundation" || project.title_key == "tropical_inundation")
-            - projectThumbs1 += '<div class="col-md-12"><div class="thumbnail"><div class="caption"><h3>' + project.title + '</h3>'
+            - projectThumbs1 += '<div class="col-md-12" style="background-color:#fff;"><div class="thumbnail"><div class="caption"><h3>' + project.title + '</h3>'
             if (project.overview)
                 - projectThumbs1 += project.overview 
             - projectThumbs1 += '<p><a href="projects/' + project.title_key + '" class="btn btn-primary" role="button">More Info</a></p></div></div></div>'
@@ -19,23 +19,23 @@ block body
     - var projectThumbs2 =  ''
     each project in projects
         if (project.title_key == "cb_hypoxia" || project.title_key == "gom_hypoxia" || project.title_key == "usw_integration" || project.title_key == "pr_inundation")
-            - projectThumbs2 += '<div class="col-md-12"><div class="thumbnail"><div class="caption"><h3>' + project.title + '</h3>'
+            - projectThumbs2 += '<div class="col-md-12" style="background-color:#fff;"><div class="thumbnail"><div class="caption"><h3>' + project.title + '</h3>'
             if (project.overview)
                 - projectThumbs2 += project.overview 
             - projectThumbs2 += '<p><a href="projects/' + project.title_key + '" class="btn btn-primary" role="button">More Info</a></p></div></div></div>'
 
     - var projectThumbs3 =  ''
     each project in projects
-        if (project.title_key == "water_hazards" || project.title_key == "gom_hypoxia" || project.title_key == "usw_integration" || project.title_key == "pr_inundation")
-            - projectThumbs3 += '<div class="col-md-12"><div class="thumbnail"><div class="caption"><h3>' + project.title + '</h3>'
+        if (project.title_key == "water_hazards" || project.title_key == "necofs_transition" || project.title_key == "data_framework" || project.title_key == "wcofs_advancement" || project.title_key == "salish_sea")
+            - projectThumbs3 += '<div class="col-md-12" style="background-color:#fff;"><div class="thumbnail"><div class="caption"><h3>' + project.title + '</h3>'
             if (project.overview)
                 - projectThumbs3 += project.overview 
             - projectThumbs3 += '<p><a href="projects/' + project.title_key + '" class="btn btn-primary" role="button">More Info</a></p></div></div></div>'
 
     - var projectThumbs4 =  ''
     each project in projects
-        if (project.title_key == "cb_hypoxia" || project.title_key == "gom_hypoxia" || project.title_key == "usw_integration" || project.title_key == "pr_inundation")
-            - projectThumbs4 += '<div class="col-md-12"><div class="thumbnail"><div class="caption"><h3>' + project.title + '</h3>'
+        if (project.title_key == "cbefs" || project.title_key == "liveocean" || project.title_key == "data_assimilation_algorithms_US" || project.title_key == "water_level_modeling" || project.title_key == "coupled_ocean_modeling_testbed_platform")
+            - projectThumbs4 += '<div class="col-md-12" style="background-color:#fff;"><div class="thumbnail"><div class="caption"><h3>' + project.title + '</h3>'
             if (project.overview)
                 - projectThumbs4 += project.overview 
             - projectThumbs4 += '<p><a href="projects/' + project.title_key + '" class="btn btn-primary" role="button">More Info</a></p></div></div></div>'
