@@ -34,7 +34,7 @@ block body
 
     - var projectThumbs4 =  ''
     each project in projects
-        if (project.title_key == "cbefs" || project.title_key == "liveocean" || project.title_key == "data_assimilation_algorithms_US" || project.title_key == "water_level_modeling" || project.title_key == "coupled_ocean_modeling_testbed_platform")
+        if (project.title_key == "cbefs" || project.title_key == "liveocean" || project.title_key == "data_assimilation_algorithms_US" || project.title_key == "water_level_modeling" || project.title_key == "coupled_ocean_modeling_testbed_platform" || project.title_key == "data_assimilation_algorithms")
             - projectThumbs4 += '<div class="col-md-12" style="background-color:#fff;"><div class="thumbnail"><div class="caption"><h3>' + project.title + '</h3>'
             if (project.overview)
                 - projectThumbs4 += project.overview 
