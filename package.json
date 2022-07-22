@@ -1,9 +1,10 @@
 {
   "name": "comt-landing",
-  "version": "1.0.0",
+  "version": "1.0.15",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./bin/www",
+    "postinstall": "node -e \"try { require('fs').symlinkSync(require('path').resolve('node_modules/@bower_components'), 'public/lib', 'junction') } catch (e) { }\""
   },
   "license": "MIT",
   "dependencies": {
@@ -25,5 +26,8 @@
   },
   "devDependencies": {
     "grunt-cli": "^0.1.13"
+  },
+  "engines": {
+    "yarn": ">= 1.0.0"
   }
 }

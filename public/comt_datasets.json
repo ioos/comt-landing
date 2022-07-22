@@ -30,7 +30,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_2014_2015", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -63,6 +63,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/cb_hypoxia/ChesROMS_1termDO_1984-2013/Output/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO_extended.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -84,7 +88,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_1984_2013", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -117,6 +121,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/cb_hypoxia/CHESROMS_1termDO_2004-2005/Output/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -138,7 +146,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_2004_2005", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -178,6 +186,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/cb_hypoxia/CHESROMS_1termDO_2004-2005_surfsat/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO_surfsat.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -199,7 +211,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_2004_2005", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -260,7 +272,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_2004_2005", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -300,6 +312,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/CBOFS/netcdf/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.noaacsdl_roms.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -321,7 +337,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_2014_2015", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -352,6 +368,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/cb_hypoxia/ROMS_RCA/Output_2005/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.roms_rca.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -373,7 +393,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_2004_2005", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -409,6 +429,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/UMASS_FVCOM/2005_3D_final_run_without_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_umass_fvcom_3dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -430,7 +454,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -464,6 +488,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/UMASS_FVCOM/2005_3D_final_run_waves_only/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_umass_fvcom_3dwaveonly.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -485,7 +513,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -517,6 +545,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/UND_ADCIRC/2005_2D_final_run_with_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -538,7 +570,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -580,6 +612,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/UND_ADCIRC/2005_2D_final_run_wave_model_only_without_circulation/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_2dwaveonly.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -601,7 +637,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -636,6 +672,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/UND_ADCIRC/2005_2D_final_run_without_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_nowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -657,7 +697,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -695,6 +735,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/VIMS_SELFE/2005_2D_final_run_without_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -716,7 +760,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -742,6 +786,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/VIMS_SELFE/2005_2D_final_run_with_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -763,7 +811,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -789,6 +837,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/VIMS_SELFE/2005_2D_final_run_waves_only/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dwaveonly.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -810,7 +862,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -838,6 +890,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/UMASS_FVCOM/2007_3D_final_run_without_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -859,7 +915,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -893,6 +949,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/UMASS_FVCOM/2007_3D_final_run_with_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -914,7 +974,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -948,6 +1008,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/UMASS_FVCOM/2007_3D_final_run_waves_only/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dwaveonly.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -969,7 +1033,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1001,6 +1065,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/UND_ADCIRC/2007_2D_final_run_without_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1022,7 +1090,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1060,6 +1128,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/UND_ADCIRC/2007_2D_final_run_with_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1081,7 +1153,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1123,6 +1195,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/UND_ADCIRC/2007_2D_final_run_wave_model_only_without_circulation/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dwaveonly.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1144,7 +1220,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1179,6 +1255,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/VIMS_SELFE/2007_2D_final_run_without_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1200,7 +1280,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1226,6 +1306,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/VIMS_SELFE/2007_2D_final_run_with_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1247,7 +1331,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1273,6 +1357,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/VIMS_SELFE/2007_2D_final_run_waves_only/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dwaveonly.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1294,7 +1382,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1320,6 +1408,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/UND_ADCIRC/2010_2D_final_run_tides_only/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2010_und_adcirc_tide.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1341,7 +1433,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1373,6 +1465,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_extratropical/VIMS_SELFE/2010_2D_final_run_tide_only/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2010_vims_selfe_tide.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1394,7 +1490,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1420,6 +1516,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/gom_hypoxia/DAL_ROMS/simpleO2model/run2_regular_SOC_large_grid/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_regSOC_lg.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1441,7 +1541,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1472,6 +1572,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/gom_hypoxia/DAL_ROMS/simpleO2model/run1_regular_SOC_small_grid/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_regSOC_sm.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1493,7 +1597,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1521,10 +1625,14 @@
             "references": [], 
             "description": null, 
             "spatial": "-98.20304,22.97701,-87.75712,30.84410", 
-            "title": "ROMS simple O2  SOC fixed temperature (large)", 
+            "title": "ROMS simple O2 SOC fixed temperature (large)", 
             "temporal": "2004-01-01T00:00:00/2007-01-01T00:00:00/P1D", 
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
+                {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/gom_hypoxia/DAL_ROMS/simpleO2model/run4_SOC_with_fixed_temperature_large_grid/",
+                    "description": "File Access" 
+                },
                 {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_lg.ncml.html", 
                     "mediaType": "text/html", 
@@ -1547,7 +1655,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1578,6 +1686,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/gom_hypoxia/DAL_ROMS/simpleO2model/run3_SOC_with_fixed_temperature_small_grid/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_sm.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1599,7 +1711,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1632,6 +1744,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/gom_hypoxia/EPA_GEM/fullBIOmodel/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.epa_gem_full_bio.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1653,7 +1769,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1682,6 +1798,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/gom_hypoxia/EPA_GEM/simpleO2model/physics/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.epa_gem_physics.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1703,7 +1823,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1733,6 +1853,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/gom_hypoxia/EPA_GEM/simpleO2model/run1_regular_SOC/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.epa_gem_simpleo2_regSOC.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1754,7 +1878,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1783,6 +1907,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/gom_hypoxia/EPA_GEM/simpleO2model/run2_SOC_with_fixed_temperature/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.epa_gem_simpleo2_socfixedtemp.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1804,7 +1932,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1833,6 +1961,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/gom_hypoxia/LSU_FVCOM/simpleO2model/run_regular_SOC/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.lsu_fvcom_simpleo2_regSOC.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1854,7 +1986,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1884,10 +2016,14 @@
             "references": [], 
             "description": null, 
             "spatial": null, 
-            "title": "FVCOM simple O2  SOC fixed temperature", 
+            "title": "FVCOM simple O2 SOC fixed temperature", 
             "temporal": null, 
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
+                {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/gom_hypoxia/LSU_FVCOM/simpleO2model/run_SOC_with_fixed_temperature/",
+                    "description": "File Access" 
+                },
                 {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.lsu_fvcom_simpleo2_socfixedtemp.ncml.html", 
                     "mediaType": "text/html", 
@@ -1910,7 +2046,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1945,6 +2081,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/Hurricane_Georges_2D_prelim_no_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -1966,7 +2106,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -1998,6 +2138,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/hurricane_georges_parametric_waves_reduction078/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu078.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2019,7 +2163,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2074,6 +2218,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/hurricane_georges_waves_reduction078_wave2/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu078wv2.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2095,7 +2243,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2011", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2150,6 +2298,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/hurricane_georges_parametric_waves_reduction090_iter2/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu090it2.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2171,7 +2323,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2226,6 +2378,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/hurricane_georges_parametric_waves_reduction090_iter3/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu090it3.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2247,7 +2403,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2302,6 +2458,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/hurricane_georges_parametric_waves_full_tide_garret/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawavetidegarret.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2323,7 +2483,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2378,6 +2538,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/georges_reduced_freq_range_1_powell_it1/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell1.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2399,7 +2563,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2432,6 +2596,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/georges_reduced_freq_range_1_powell_it2/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell2.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2453,7 +2621,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2486,6 +2654,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/georges_reduced_freq_range_1_powell_it3/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell3.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2507,7 +2679,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2540,6 +2712,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/georges_reduced_freq_range_1_powell_it4/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell4.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2561,7 +2737,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2594,6 +2770,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/georges_reduced_freq_range_1_powell_it5/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell5.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2615,7 +2795,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2648,6 +2828,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/georges_reduced_freq_range_1_powell_it6/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell6.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2669,7 +2853,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2702,6 +2886,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/georges_reduced_freq_range_1_powell_it7/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell7.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2723,7 +2911,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2778,6 +2966,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/georges_reduced_freq_range_1_powell_it8/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell8.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2799,7 +2991,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2854,6 +3046,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/georges_reduced_freq_range_1_powell_it9/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell9.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2875,7 +3071,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -2930,6 +3126,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/Hurricane_Irene_2D_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -2951,7 +3151,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2011", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3006,6 +3206,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/Hurricane_Irene_Parametric_NoWaves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_paranowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3027,7 +3231,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2011", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3072,6 +3276,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/Hurricane_Irene_Parametric_Waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3093,7 +3301,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2011", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3148,6 +3356,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/hurricane_irene_parametric_waves_reduction078/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawaveredu078.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3169,7 +3381,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2011", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3224,6 +3436,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/hurricane_irene_parametric_waves_reduction078_wave2/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawaveredu078wave2.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3245,7 +3461,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2011", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3300,6 +3516,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/pr_inundation_tropical/UND_ADCIRCSWAN/hurricane_sandy_no_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.sandy_und_adcirc_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3321,7 +3541,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2012", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3366,6 +3586,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_tropical/MDL_SLOSH/Hurricane_Ike_final_run_egm3/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_mdl_slosh_egm3.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3387,7 +3611,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3418,6 +3642,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_tropical/UND_ADCIRC/Hurricane_Ike_2D_final_run_without_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3439,7 +3667,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3481,6 +3709,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_tropical/UND_ADCIRC/Hurricane_Ike_2D_final_run_with_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3502,7 +3734,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3554,6 +3786,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_tropical/UND_ADCIRC/Hurricane_Ike_3D_final_run_without_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_3dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3575,7 +3811,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3617,6 +3853,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_tropical/UND_ADCIRC/Hurricane_Ike_3D_final_run_with_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_3dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3638,7 +3878,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3690,6 +3930,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_tropical/UND_SLOSH/Hurricane_Ike_final_run_egl3/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_slosh_egl3.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3711,7 +3955,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3748,6 +3992,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_tropical/UND_SLOSH/Hurricane_Ike_final_run_egm3/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_slosh_egm3.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3769,7 +4017,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3806,6 +4054,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_tropical/USF_FVCOM/Hurricane_Ike_2D_final_run_without_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3827,7 +4079,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3859,6 +4111,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_tropical/USF_FVCOM/Hurricane_Ike_2D_final_run_with_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3880,7 +4136,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3912,6 +4168,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_tropical/USF_FVCOM/Hurricane_Ike_3D_final_run_without_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_3dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3933,7 +4193,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -3965,6 +4225,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_tropical/USF_FVCOM/Hurricane_Ike_3D_final_run_with_waves/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_3dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -3986,7 +4250,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4018,6 +4282,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_tropical/USF_FVCOM/SWAN_Ike_final_run_with_2DSurge/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_swan_2dsurge.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -4039,7 +4307,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4069,6 +4337,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_1/inundation_tropical/USF_FVCOM/SWAN_Ike_final_run_without_Surge/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_swan_nosurge.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -4090,7 +4362,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4141,7 +4413,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4193,7 +4465,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4246,7 +4518,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4299,7 +4571,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4352,7 +4624,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4405,7 +4677,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4463,7 +4735,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4521,7 +4793,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4573,7 +4845,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4625,7 +4897,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4677,7 +4949,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4729,7 +5001,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4776,7 +5048,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4823,7 +5095,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4872,7 +5144,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4919,7 +5191,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -4945,6 +5217,10 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
+                    "downloadURL": "http://files.comt.ioos.us/comt_2/usw_integration/Exp16/",
+                    "description": "File Access" 
+                },
+                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/usw_integration.exp16.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
@@ -4966,7 +5242,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt/#usw_integration", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 
@@ -5019,7 +5295,7 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://dev.oceansmap.com/comtdev", 
+                    "downloadURL": "http://oceansmap.com/comt", 
                     "mediaType": "application/html", 
                     "title": "OceansMap Viewer", 
                     "description": "OceansMap Viewer", 

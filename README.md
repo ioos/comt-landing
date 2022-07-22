@@ -3,36 +3,48 @@ The homepage for https://comt.ioos.us
 
 ## Building the project
 
-1. Download and install nodejs (which comes with npm)
-2. Install the project nodeJS dependencies
-   ```
-   npm install
-   ```
+0. Download and install nodejs (which comes with npm) using your package manager
+0. Install `yarn` using your package manager. Instructions can be found [here](https://legacy.yarnpkg.com/en/docs/install/).
 
-3. Install the project bower dependencies. If you have bower installed as a command line tool, which is highly recommended.
-   ```
-   bower install
-   ```
+0. Use `npm` to install `grunt`
 
-   Otherwise, you can run bower through the local packages
+```
+$ npm install -g grunt
+```
 
-   ```
-   node_modules/bower/bin/bower install
-   ```
+0. Use `yarn` to install the package and its dependencies:
 
-3. To run the project
-   ```
-   DEBUG=comt-landing:* npm start
-   ```
+```
+$ yarn
+```
 
-## Running in Production
+0. Following a successful installation, use `grunt` to compile static elements.
 
-1. Compile all of the static assets
-   ```
-   grunt
-   ```
+```
+$ grunt
+```
 
-2. Launch the web application
-   ```
-   NODE_ENV=production ./bin/www
-   ```
+0. To run the project:
+
+```
+$ node bin/www
+```
+
+### Docker build
+
+The Docker build is far simpler:
+
+```
+$ docker build -t <tag> -f Dockerfile .
+```
+
+__NOTE__: ensure that `public/lib` is removed *before* building. If it exists,
+`yarn` will attempt to use the existing one in the Docker build, breaking the symlink
+in the container and lead to ugly CSS.
+
+# Update the .env file with config variables
+For testing Google Analytics and things that use env variables.
+Update the .env file in your root folder similar to this:
+```
+GOOGLE_ANALYTICS_ID=YOUR_ENV_VAR_HERE
+```
