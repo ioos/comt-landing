@@ -28,13 +28,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_2014_2015", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/e50db97a-db41-40f2-881c-e87a3cc73c8f", 
@@ -86,13 +79,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_1984_2013", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/dfea24ce-feba-4330-8352-b4093f172be7", 
@@ -144,13 +130,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_2004_2005", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }, 
                 {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/catalog/cb_hypoxia/observations/catalog.html", 
@@ -211,13 +190,6 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_2004_2005", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
-                }, 
-                {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/catalog/cb_hypoxia/observations/catalog.html", 
                     "mediaType": "application/html", 
                     "title": "Observations Data", 
@@ -270,13 +242,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_2004_2005", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }, 
                 {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/catalog/cb_hypoxia/observations/catalog.html", 
@@ -335,13 +300,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_2014_2015", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/b7284db4-d6f2-46e7-aa39-852bb6f84e57", 
@@ -391,13 +349,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#cb_hypoxia_2004_2005", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }, 
                 {
                     "downloadURL": "http://thredds.comt.ioos.us/thredds/catalog/cb_hypoxia/observations/catalog.html", 
@@ -452,13 +403,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/7cc0ba67-8093-4a42-bf78-fcd8345912c7", 
@@ -511,13 +455,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/3caf9c58-0427-47b0-96e9-20ff749661bc", 
@@ -568,13 +505,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f803541b-abfc-473d-96fc-c814fd070c62", 
@@ -635,13 +565,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f1ff90ab-dc31-415f-b373-a8b65d7bf77a", 
@@ -695,13 +618,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/1170aa53-b3d2-4c64-9f29-642bce9b04e5", 
@@ -758,13 +674,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/53a259df-836b-491b-b443-a1d7db7434fa", 
@@ -809,13 +718,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/08016afa-b1ef-4ab7-b2f5-54461c615e36", 
@@ -860,13 +762,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f710c819-b41f-4d46-8b6c-49b26f0d6326", 
@@ -913,13 +808,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/efce2596-23ab-4c6e-a60c-0fc1f5fb4ac9", 
@@ -972,13 +860,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/2305369e-5111-4ad8-a7bf-f90644be5bc5", 
@@ -1031,13 +912,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/b4c0b329-1145-450d-8375-81cfc2e47f8d", 
@@ -1088,13 +962,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/b4c360f8-462d-4762-b63c-8795bbc51741", 
@@ -1151,13 +1018,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/0cf335d3-b8b7-4fae-8107-135795c41f7a", 
@@ -1218,13 +1078,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f7201135-3a87-466d-8559-7682cf9b6525", 
@@ -1278,13 +1131,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/99ff233f-db79-4120-a620-f8f749bc1a76", 
@@ -1329,13 +1175,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/96826fe9-28fe-4120-b3c7-d4cc703c502a", 
@@ -1380,13 +1219,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/99362fe1-9a6e-44e3-a36b-01b40ff055e1", 
@@ -1431,13 +1263,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/d1535e6e-8402-4aff-89e4-cae884305f37", 
@@ -1488,13 +1313,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/ef9bf2ad-269b-40ae-879f-27848ffeb586", 
@@ -1539,13 +1357,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/055b8554-a8ba-493d-b135-bbd0bf89bc9a", 
@@ -1595,13 +1406,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/90e9599b-d8df-4a0e-a1dd-eae3c4254c60", 
@@ -1653,13 +1457,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/93ff32a3-d453-4fa5-a457-bef05e457ee7", 
@@ -1709,13 +1506,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/d4e81b48-dece-4cb4-a56e-d106b27a8d95", 
@@ -1767,13 +1557,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/c2926848-a721-438b-aad8-c1e4e46e44b1", 
@@ -1821,13 +1604,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/ed88740d-7740-4a5c-a80f-67ce6cba93bf", 
@@ -1876,13 +1652,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/8c49e8f1-50e8-424b-a70f-55f18a746db6", 
@@ -1930,13 +1699,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/faa44c45-9040-43be-a186-c3238e20f991", 
@@ -1984,13 +1746,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/a2bb69c1-04e1-4124-ad12-d9ffbe63ac2c", 
@@ -2044,13 +1799,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#gom_hypoxia_2004_2007", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/79909fa3-d6f2-4082-9fb8-dbeab1f0c63c", 
@@ -2104,13 +1852,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/5a549f38-282f-44f7-bca5-81b8bd2cad47", 
@@ -2161,13 +1902,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/e8358e39-c973-41d6-b8c5-2aedcfd37417", 
@@ -2241,13 +1975,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2011", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/7712b49a-f48d-41e3-aba3-15b5213144c8", 
@@ -2321,13 +2048,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/5256c070-931a-4a2a-aca4-898a7258f12b", 
@@ -2401,13 +2121,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/77e7fdd5-112a-4754-b706-ff911a7166ab", 
@@ -2481,13 +2194,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/d24baa81-e29b-4650-845c-92534b278f09", 
@@ -2561,13 +2267,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/39c3baa4-44dc-42ab-a678-51ebd1a79d71", 
@@ -2619,13 +2318,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/00b74c02-08cf-4229-9167-9ee518b8d5de", 
@@ -2677,13 +2369,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/bd81b830-50a2-4fdf-8679-c08aee5185d3", 
@@ -2735,13 +2420,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/981ece3c-d19a-433f-9fad-29cbe819b8a7", 
@@ -2793,13 +2471,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/85c9e252-9ceb-42c1-a7d9-df7dc73ba2a3", 
@@ -2851,13 +2522,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/bcdc8951-36b5-4c5c-8e16-470dff2dfdd9", 
@@ -2909,13 +2573,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/0548a905-820b-48b0-b0db-b27c3863b3cc", 
@@ -2989,13 +2646,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/7480eb53-f92a-4ed1-a1f8-1b7a388c5ece", 
@@ -3069,13 +2719,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_1998", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/0d858c9d-a16b-4ad5-9a8d-81adfa9ec220", 
@@ -3149,13 +2792,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2011", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/93a6bd62-2147-4764-b67c-66fe0326a114", 
@@ -3229,13 +2865,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2011", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/d4eccbc9-00ee-4a5a-8dc2-e46c806c8a65", 
@@ -3299,13 +2928,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2011", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/790fb86c-9c4f-4f74-ad6c-afd08268bf31", 
@@ -3379,13 +3001,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2011", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/4b678315-1290-4ee8-8b86-0f280befcb1b", 
@@ -3459,13 +3074,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2011", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/c658a112-b1cb-4807-99c9-8c0fdd9dc3f2", 
@@ -3539,13 +3147,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#pr_inundation_2012", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/70bc4d02-0ab0-4e99-97ef-ce1b227d2698", 
@@ -3609,13 +3210,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/421ae11b-7e27-4723-8be3-4296d697a91a", 
@@ -3665,13 +3259,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/ed85abea-d1a5-40ac-b26e-2d52b5c7a5e1", 
@@ -3732,13 +3319,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/2675f509-a521-47fb-81c2-418baf415ecb", 
@@ -3809,13 +3389,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/780b1d68-0fb2-477a-a728-96a768a5d43c", 
@@ -3876,13 +3449,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/95a7fb5b-6b1f-47e0-8b4e-1758461eec72", 
@@ -3953,13 +3519,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/9b024a58-9428-4233-8c60-2d3b06087d26", 
@@ -4015,13 +3574,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/9115bb9f-930f-4349-95f5-366796db7b44", 
@@ -4077,13 +3629,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/4744e968-71f7-4ae6-a91d-473f9ed53fd1", 
@@ -4134,13 +3679,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/113c8bdd-7cfa-4383-8c67-b7df2e52669a", 
@@ -4191,13 +3729,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/8c252597-dd74-4cfd-a403-52360f2b5cb9", 
@@ -4248,13 +3779,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/63680123-b365-4576-94c8-40d54692ef41", 
@@ -4305,13 +3829,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/81f77b28-bbbd-433d-9c1d-7a9f8e443558", 
@@ -4360,13 +3877,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#tropical_inundation_2008", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/1f876ff3-829e-4540-b142-b881f9ce6c12", 
@@ -4411,13 +3921,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/2e3699b3-062f-4b68-995e-c77db7a384ba", 
@@ -4463,13 +3966,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/0c098eb0-f3bc-4bc4-a74b-b10314f951eb", 
@@ -4516,13 +4012,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/cff54d2b-0df6-40e0-9a72-8b4cedcf0bf3", 
@@ -4569,13 +4058,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/10cb208d-b0fa-455a-9885-3e7445d5d1f5", 
@@ -4622,13 +4104,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/b6f54842-5c1b-4754-a73a-bdeaf56224d0", 
@@ -4675,13 +4150,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f3f04909-b01b-4aee-bc42-22968227203a", 
@@ -4733,13 +4201,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/876bec7b-2378-4f59-ac53-29ab8c782b21", 
@@ -4791,13 +4252,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/2b03189c-f73b-45ab-b9c3-56cca3d141ad", 
@@ -4843,13 +4297,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/bd715167-f87a-4aee-89c3-4efb9ff9c1f9", 
@@ -4895,13 +4342,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f39ec719-0ecf-4ae3-a601-6c36c6ee95dc", 
@@ -4947,13 +4387,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/0dc04f73-b861-40af-8478-bfaddd678ef0", 
@@ -4999,13 +4432,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/774169cb-04e3-4293-bd78-53e09045ce5f", 
@@ -5046,13 +4472,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/aa4ac4d7-db41-4b6d-abc5-06e3ab592e2c", 
@@ -5093,13 +4512,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/c07d5255-7ed2-4515-aac5-35b2ebbafcef", 
@@ -5142,13 +4554,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/aef2d6f9-d901-4be4-bde2-d2c69eac37ec", 
@@ -5189,13 +4594,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f07749b3-02bc-46a2-8346-656b0b8395a0", 
@@ -5240,13 +4638,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt/#usw_integration", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/65f14db5-84d4-4ffb-9817-d78b8a9be0ee", 
@@ -5293,13 +4684,6 @@
                     "title": "ISO 19115 Metadata", 
                     "description": "OGC WMS 1.1.1", 
                     "format": "XML"
-                }, 
-                {
-                    "downloadURL": "http://oceansmap.com/comt", 
-                    "mediaType": "application/html", 
-                    "title": "OceansMap Viewer", 
-                    "description": "OceansMap Viewer", 
-                    "format": "HTML"
                 }
             ], 
             "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/50f11aca-9b8f-43b1-8327-fd779b374ac9", 
