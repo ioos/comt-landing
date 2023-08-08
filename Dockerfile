@@ -1,4 +1,4 @@
-FROM node:13.7.0-alpine
+FROM node:16-alpine
 LABEL maintainer="devops@rpsgroup.com"
 
 # install yarn, grunt; remove build cache
