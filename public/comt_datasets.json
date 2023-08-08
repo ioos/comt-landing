@@ -9,14 +9,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia1415.noaacsdl_roms.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia1415.noaacsdl_roms.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia1415.noaacsdl_roms.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia1415.noaacsdl_roms.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia1415.noaacsdl_roms.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia1415.noaacsdl_roms.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -30,7 +30,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/e50db97a-db41-40f2-881c-e87a3cc73c8f", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/e50db97a-db41-40f2-881c-e87a3cc73c8f", 
             "variablesMeasured": [
                 "time", 
                 "water_surface_height_above_reference_datum", 
@@ -60,14 +60,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO_extended.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO_extended.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO_extended.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia.CHESROMS_1termDO_extended.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO_extended.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia.CHESROMS_1termDO_extended.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -81,7 +81,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/dfea24ce-feba-4330-8352-b4093f172be7", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/dfea24ce-feba-4330-8352-b4093f172be7", 
             "variablesMeasured": [
                 "water_surface_height_above_reference_datum", 
                 "longitude", 
@@ -111,14 +111,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia.CHESROMS_1termDO.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia.CHESROMS_1termDO.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -132,14 +132,14 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/catalog/cb_hypoxia/observations/catalog.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/catalog/cb_hypoxia/observations/catalog.html", 
                     "mediaType": "application/html", 
                     "title": "Observations Data", 
                     "description": "Observation Data", 
                     "format": "HTML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/d38dae05-f61a-4f84-8cb2-c1a98ee8f89d", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/d38dae05-f61a-4f84-8cb2-c1a98ee8f89d", 
             "variablesMeasured": [
                 "water_surface_height_above_reference_datum", 
                 "longitude", 
@@ -169,14 +169,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO_surfsat.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO_surfsat.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO_surfsat.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia.CHESROMS_1termDO_surfsat.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia.CHESROMS_1termDO_surfsat.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia.CHESROMS_1termDO_surfsat.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -190,14 +190,14 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/catalog/cb_hypoxia/observations/catalog.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/catalog/cb_hypoxia/observations/catalog.html", 
                     "mediaType": "application/html", 
                     "title": "Observations Data", 
                     "description": "Observation Data", 
                     "format": "HTML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/ff9035a4-aff6-41c9-99b4-d4d5bfb60334", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/ff9035a4-aff6-41c9-99b4-d4d5bfb60334", 
             "variablesMeasured": [
                 "water_surface_height_above_reference_datum", 
                 "longitude", 
@@ -223,14 +223,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.ChesROMS_ECB.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.ChesROMS_ECB.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia.ChesROMS_ECB.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia.ChesROMS_ECB.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia.ChesROMS_ECB.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia.ChesROMS_ECB.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -244,14 +244,14 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/catalog/cb_hypoxia/observations/catalog.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/catalog/cb_hypoxia/observations/catalog.html", 
                     "mediaType": "application/html", 
                     "title": "Observations Data", 
                     "description": "Observation Data", 
                     "format": "HTML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/3dafb119-4467-425e-a51e-d1f7ff592611", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/3dafb119-4467-425e-a51e-d1f7ff592611", 
             "variablesMeasured": [
                 "water_surface_height_above_reference_datum", 
                 "longitude", 
@@ -281,14 +281,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.noaacsdl_roms.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.noaacsdl_roms.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia.noaacsdl_roms.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia.noaacsdl_roms.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia.noaacsdl_roms.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia.noaacsdl_roms.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -302,7 +302,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/b7284db4-d6f2-46e7-aa39-852bb6f84e57", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/b7284db4-d6f2-46e7-aa39-852bb6f84e57", 
             "variablesMeasured": [
                 "water_surface_height_above_reference_datum", 
                 "ocean_s_coordinate_g1", 
@@ -330,14 +330,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.roms_rca.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/cb_hypoxia.roms_rca.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia.roms_rca.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia.roms_rca.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/cb_hypoxia.roms_rca.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/cb_hypoxia.roms_rca.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -351,14 +351,14 @@
                     "format": "XML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/catalog/cb_hypoxia/observations/catalog.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/catalog/cb_hypoxia/observations/catalog.html", 
                     "mediaType": "application/html", 
                     "title": "Observations Data", 
                     "description": "Observation Data", 
                     "format": "HTML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/e656dbea-0746-490e-9796-f0beb00f8a5e", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/e656dbea-0746-490e-9796-f0beb00f8a5e", 
             "variablesMeasured": [
                 "mass_concentration_of_oxygen_in_sea_water", 
                 "latitude", 
@@ -384,14 +384,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_umass_fvcom_3dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_umass_fvcom_3dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_umass_fvcom_3dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_umass_fvcom_3dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_umass_fvcom_3dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_umass_fvcom_3dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -405,7 +405,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/7cc0ba67-8093-4a42-bf78-fcd8345912c7", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/7cc0ba67-8093-4a42-bf78-fcd8345912c7", 
             "variablesMeasured": [
                 "ocean_sigma/general_coordinate", 
                 "longitude", 
@@ -436,14 +436,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_umass_fvcom_3dwaveonly.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_umass_fvcom_3dwaveonly.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_umass_fvcom_3dwaveonly.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_umass_fvcom_3dwaveonly.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_umass_fvcom_3dwaveonly.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_umass_fvcom_3dwaveonly.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -457,7 +457,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/3caf9c58-0427-47b0-96e9-20ff749661bc", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/3caf9c58-0427-47b0-96e9-20ff749661bc", 
             "variablesMeasured": [
                 "ocean_sigma/general_coordinate", 
                 "longitude", 
@@ -486,14 +486,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_2dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_2dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_und_adcirc_2dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_2dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_und_adcirc_2dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -507,7 +507,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f803541b-abfc-473d-96fc-c814fd070c62", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/f803541b-abfc-473d-96fc-c814fd070c62", 
             "variablesMeasured": [
                 "sea_surface_wave_mean_period_from_variance_spectral_density_inverse_frequency_moment", 
                 "northward_wind", 
@@ -546,14 +546,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_2dwaveonly.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_2dwaveonly.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_2dwaveonly.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_und_adcirc_2dwaveonly.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_2dwaveonly.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_und_adcirc_2dwaveonly.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -567,7 +567,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f1ff90ab-dc31-415f-b373-a8b65d7bf77a", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/f1ff90ab-dc31-415f-b373-a8b65d7bf77a", 
             "variablesMeasured": [
                 "mesh_topology", 
                 "depth_below_geoid", 
@@ -599,14 +599,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_nowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_nowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_nowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_und_adcirc_nowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_und_adcirc_nowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_und_adcirc_nowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -620,7 +620,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/1170aa53-b3d2-4c64-9f29-642bce9b04e5", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/1170aa53-b3d2-4c64-9f29-642bce9b04e5", 
             "variablesMeasured": [
                 "northward_wind", 
                 "northward_water_velocity", 
@@ -655,14 +655,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_vims_selfe_2dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_vims_selfe_2dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -676,7 +676,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/53a259df-836b-491b-b443-a1d7db7434fa", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/53a259df-836b-491b-b443-a1d7db7434fa", 
             "variablesMeasured": [
                 "time"
             ], 
@@ -699,14 +699,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_vims_selfe_2dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_vims_selfe_2dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -720,7 +720,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/08016afa-b1ef-4ab7-b2f5-54461c615e36", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/08016afa-b1ef-4ab7-b2f5-54461c615e36", 
             "variablesMeasured": [
                 "time"
             ], 
@@ -743,14 +743,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dwaveonly.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dwaveonly.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dwaveonly.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_vims_selfe_2dwaveonly.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2005_vims_selfe_2dwaveonly.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2005_vims_selfe_2dwaveonly.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -764,7 +764,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f710c819-b41f-4d46-8b6c-49b26f0d6326", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/f710c819-b41f-4d46-8b6c-49b26f0d6326", 
             "variablesMeasured": [
                 "latitude", 
                 "longitude", 
@@ -789,14 +789,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_umass_fvcom_3dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_umass_fvcom_3dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -810,7 +810,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/efce2596-23ab-4c6e-a60c-0fc1f5fb4ac9", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/efce2596-23ab-4c6e-a60c-0fc1f5fb4ac9", 
             "variablesMeasured": [
                 "ocean_sigma/general_coordinate", 
                 "longitude", 
@@ -841,14 +841,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_umass_fvcom_3dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_umass_fvcom_3dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -862,7 +862,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/2305369e-5111-4ad8-a7bf-f90644be5bc5", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/2305369e-5111-4ad8-a7bf-f90644be5bc5", 
             "variablesMeasured": [
                 "ocean_sigma/general_coordinate", 
                 "longitude", 
@@ -893,14 +893,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dwaveonly.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dwaveonly.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dwaveonly.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_umass_fvcom_3dwaveonly.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_umass_fvcom_3dwaveonly.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_umass_fvcom_3dwaveonly.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -914,7 +914,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/b4c0b329-1145-450d-8375-81cfc2e47f8d", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/b4c0b329-1145-450d-8375-81cfc2e47f8d", 
             "variablesMeasured": [
                 "ocean_sigma/general_coordinate", 
                 "longitude", 
@@ -943,14 +943,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_und_adcirc_2dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_und_adcirc_2dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -964,7 +964,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/b4c360f8-462d-4762-b63c-8795bbc51741", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/b4c360f8-462d-4762-b63c-8795bbc51741", 
             "variablesMeasured": [
                 "northward_wind", 
                 "northward_water_velocity", 
@@ -999,14 +999,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_und_adcirc_2dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_und_adcirc_2dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1020,7 +1020,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/0cf335d3-b8b7-4fae-8107-135795c41f7a", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/0cf335d3-b8b7-4fae-8107-135795c41f7a", 
             "variablesMeasured": [
                 "sea_surface_wave_mean_period_from_variance_spectral_density_inverse_frequency_moment", 
                 "northward_wind", 
@@ -1059,14 +1059,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dwaveonly.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dwaveonly.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dwaveonly.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_und_adcirc_2dwaveonly.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_und_adcirc_2dwaveonly.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_und_adcirc_2dwaveonly.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1080,7 +1080,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f7201135-3a87-466d-8559-7682cf9b6525", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/f7201135-3a87-466d-8559-7682cf9b6525", 
             "variablesMeasured": [
                 "mesh_topology", 
                 "depth_below_geoid", 
@@ -1112,14 +1112,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_vims_selfe_2dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_vims_selfe_2dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1133,7 +1133,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/99ff233f-db79-4120-a620-f8f749bc1a76", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/99ff233f-db79-4120-a620-f8f749bc1a76", 
             "variablesMeasured": [
                 "time"
             ], 
@@ -1156,14 +1156,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_vims_selfe_2dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_vims_selfe_2dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1177,7 +1177,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/96826fe9-28fe-4120-b3c7-d4cc703c502a", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/96826fe9-28fe-4120-b3c7-d4cc703c502a", 
             "variablesMeasured": [
                 "time"
             ], 
@@ -1200,14 +1200,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dwaveonly.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dwaveonly.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dwaveonly.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_vims_selfe_2dwaveonly.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2007_vims_selfe_2dwaveonly.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2007_vims_selfe_2dwaveonly.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1221,7 +1221,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/99362fe1-9a6e-44e3-a36b-01b40ff055e1", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/99362fe1-9a6e-44e3-a36b-01b40ff055e1", 
             "variablesMeasured": [
                 "time"
             ], 
@@ -1244,14 +1244,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2010_und_adcirc_tide.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2010_und_adcirc_tide.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2010_und_adcirc_tide.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2010_und_adcirc_tide.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2010_und_adcirc_tide.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2010_und_adcirc_tide.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1265,7 +1265,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/d1535e6e-8402-4aff-89e4-cae884305f37", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/d1535e6e-8402-4aff-89e4-cae884305f37", 
             "variablesMeasured": [
                 "mesh_topology", 
                 "depth_below_geoid", 
@@ -1294,14 +1294,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2010_vims_selfe_tide.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/extratropical_inundation.2010_vims_selfe_tide.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2010_vims_selfe_tide.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2010_vims_selfe_tide.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/extratropical_inundation.2010_vims_selfe_tide.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/extratropical_inundation.2010_vims_selfe_tide.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1315,7 +1315,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/ef9bf2ad-269b-40ae-879f-27848ffeb586", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/ef9bf2ad-269b-40ae-879f-27848ffeb586", 
             "variablesMeasured": [
                 "time"
             ], 
@@ -1338,14 +1338,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_regSOC_lg.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_regSOC_lg.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_regSOC_lg.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.dal_roms_simpleo2_regSOC_lg.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_regSOC_lg.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.dal_roms_simpleo2_regSOC_lg.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1359,7 +1359,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/055b8554-a8ba-493d-b135-bbd0bf89bc9a", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/055b8554-a8ba-493d-b135-bbd0bf89bc9a", 
             "variablesMeasured": [
                 "water_surface_height_above_reference_datum", 
                 "ocean_s_coordinate_g1", 
@@ -1387,14 +1387,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_regSOC_sm.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_regSOC_sm.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_regSOC_sm.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.dal_roms_simpleo2_regSOC_sm.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_regSOC_sm.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.dal_roms_simpleo2_regSOC_sm.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1408,7 +1408,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/90e9599b-d8df-4a0e-a1dd-eae3c4254c60", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/90e9599b-d8df-4a0e-a1dd-eae3c4254c60", 
             "variablesMeasured": [
                 "water_surface_height_above_reference_datum", 
                 "ocean_s_coordinate_g1", 
@@ -1438,14 +1438,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_lg.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_lg.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_lg.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_lg.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_lg.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_lg.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1459,7 +1459,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/93ff32a3-d453-4fa5-a457-bef05e457ee7", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/93ff32a3-d453-4fa5-a457-bef05e457ee7", 
             "variablesMeasured": [
                 "water_surface_height_above_reference_datum", 
                 "ocean_s_coordinate_g1", 
@@ -1487,14 +1487,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_sm.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_sm.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_sm.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_sm.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_sm.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.dal_roms_simpleo2_socfixedtemp_sm.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1508,7 +1508,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/d4e81b48-dece-4cb4-a56e-d106b27a8d95", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/d4e81b48-dece-4cb4-a56e-d106b27a8d95", 
             "variablesMeasured": [
                 "water_surface_height_above_reference_datum", 
                 "ocean_s_coordinate_g1", 
@@ -1538,14 +1538,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.epa_gem_full_bio.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.epa_gem_full_bio.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.epa_gem_full_bio.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.epa_gem_full_bio.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.epa_gem_full_bio.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.epa_gem_full_bio.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1559,7 +1559,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/c2926848-a721-438b-aad8-c1e4e46e44b1", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/c2926848-a721-438b-aad8-c1e4e46e44b1", 
             "variablesMeasured": [
                 "mass_concentration_of_oxygen_in_sea_water", 
                 "latitude", 
@@ -1585,14 +1585,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.epa_gem_physics.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.epa_gem_physics.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.epa_gem_physics.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.epa_gem_physics.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.epa_gem_physics.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.epa_gem_physics.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1606,7 +1606,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/ed88740d-7740-4a5c-a80f-67ce6cba93bf", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/ed88740d-7740-4a5c-a80f-67ce6cba93bf", 
             "variablesMeasured": [
                 "latitude", 
                 "water_surface_height_above_reference_datum", 
@@ -1633,14 +1633,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.epa_gem_simpleo2_regSOC.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.epa_gem_simpleo2_regSOC.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.epa_gem_simpleo2_regSOC.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.epa_gem_simpleo2_regSOC.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.epa_gem_simpleo2_regSOC.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.epa_gem_simpleo2_regSOC.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1654,7 +1654,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/8c49e8f1-50e8-424b-a70f-55f18a746db6", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/8c49e8f1-50e8-424b-a70f-55f18a746db6", 
             "variablesMeasured": [
                 "mass_concentration_of_oxygen_in_sea_water", 
                 "latitude", 
@@ -1680,14 +1680,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.epa_gem_simpleo2_socfixedtemp.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.epa_gem_simpleo2_socfixedtemp.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.epa_gem_simpleo2_socfixedtemp.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.epa_gem_simpleo2_socfixedtemp.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.epa_gem_simpleo2_socfixedtemp.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.epa_gem_simpleo2_socfixedtemp.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1701,7 +1701,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/faa44c45-9040-43be-a186-c3238e20f991", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/faa44c45-9040-43be-a186-c3238e20f991", 
             "variablesMeasured": [
                 "mass_concentration_of_oxygen_in_sea_water", 
                 "latitude", 
@@ -1727,14 +1727,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.lsu_fvcom_simpleo2_regSOC.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.lsu_fvcom_simpleo2_regSOC.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.lsu_fvcom_simpleo2_regSOC.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.lsu_fvcom_simpleo2_regSOC.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.lsu_fvcom_simpleo2_regSOC.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.lsu_fvcom_simpleo2_regSOC.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1748,7 +1748,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/a2bb69c1-04e1-4124-ad12-d9ffbe63ac2c", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/a2bb69c1-04e1-4124-ad12-d9ffbe63ac2c", 
             "variablesMeasured": [
                 "sea_surface_elevation", 
                 "net water column oxygen consumption", 
@@ -1780,14 +1780,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.lsu_fvcom_simpleo2_socfixedtemp.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/gom_hypoxia.lsu_fvcom_simpleo2_socfixedtemp.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.lsu_fvcom_simpleo2_socfixedtemp.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.lsu_fvcom_simpleo2_socfixedtemp.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/gom_hypoxia.lsu_fvcom_simpleo2_socfixedtemp.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/gom_hypoxia.lsu_fvcom_simpleo2_socfixedtemp.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1801,7 +1801,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/79909fa3-d6f2-4082-9fb8-dbeab1f0c63c", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/79909fa3-d6f2-4082-9fb8-dbeab1f0c63c", 
             "variablesMeasured": [
                 "sea_surface_elevation", 
                 "net water column oxygen consumption", 
@@ -1833,14 +1833,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_2dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_2dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_2dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_2dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_2dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1854,7 +1854,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/5a549f38-282f-44f7-bca5-81b8bd2cad47", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/5a549f38-282f-44f7-bca5-81b8bd2cad47", 
             "variablesMeasured": [
                 "northward_wind", 
                 "depth below geoid", 
@@ -1883,14 +1883,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu078.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu078.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu078.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_parawaveredu078.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu078.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_parawaveredu078.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1904,7 +1904,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/e8358e39-c973-41d6-b8c5-2aedcfd37417", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/e8358e39-c973-41d6-b8c5-2aedcfd37417", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -1956,14 +1956,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu078wv2.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu078wv2.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu078wv2.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_parawaveredu078wv2.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu078wv2.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_parawaveredu078wv2.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -1977,7 +1977,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/7712b49a-f48d-41e3-aba3-15b5213144c8", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/7712b49a-f48d-41e3-aba3-15b5213144c8", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -2029,14 +2029,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu090it2.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu090it2.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu090it2.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_parawaveredu090it2.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu090it2.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_parawaveredu090it2.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2050,7 +2050,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/5256c070-931a-4a2a-aca4-898a7258f12b", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/5256c070-931a-4a2a-aca4-898a7258f12b", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -2102,14 +2102,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu090it3.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu090it3.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu090it3.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_parawaveredu090it3.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawaveredu090it3.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_parawaveredu090it3.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2123,7 +2123,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/77e7fdd5-112a-4754-b706-ff911a7166ab", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/77e7fdd5-112a-4754-b706-ff911a7166ab", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -2175,14 +2175,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawavetidegarret.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawavetidegarret.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawavetidegarret.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_parawavetidegarret.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_parawavetidegarret.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_parawavetidegarret.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2196,7 +2196,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/d24baa81-e29b-4650-845c-92534b278f09", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/d24baa81-e29b-4650-845c-92534b278f09", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -2248,14 +2248,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell1.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell1.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell1.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell1.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell1.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell1.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2269,7 +2269,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/39c3baa4-44dc-42ab-a678-51ebd1a79d71", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/39c3baa4-44dc-42ab-a678-51ebd1a79d71", 
             "variablesMeasured": [
                 "northward_wind", 
                 "air_pressure_at_sea_level", 
@@ -2299,14 +2299,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell2.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell2.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell2.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell2.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell2.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell2.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2320,7 +2320,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/00b74c02-08cf-4229-9167-9ee518b8d5de", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/00b74c02-08cf-4229-9167-9ee518b8d5de", 
             "variablesMeasured": [
                 "northward_wind", 
                 "air_pressure_at_sea_level", 
@@ -2350,14 +2350,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell3.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell3.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell3.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell3.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell3.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell3.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2371,7 +2371,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/bd81b830-50a2-4fdf-8679-c08aee5185d3", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/bd81b830-50a2-4fdf-8679-c08aee5185d3", 
             "variablesMeasured": [
                 "northward_wind", 
                 "air_pressure_at_sea_level", 
@@ -2401,14 +2401,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell4.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell4.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell4.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell4.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell4.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell4.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2422,7 +2422,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/981ece3c-d19a-433f-9fad-29cbe819b8a7", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/981ece3c-d19a-433f-9fad-29cbe819b8a7", 
             "variablesMeasured": [
                 "northward_wind", 
                 "air_pressure_at_sea_level", 
@@ -2452,14 +2452,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell5.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell5.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell5.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell5.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell5.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell5.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2473,7 +2473,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/85c9e252-9ceb-42c1-a7d9-df7dc73ba2a3", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/85c9e252-9ceb-42c1-a7d9-df7dc73ba2a3", 
             "variablesMeasured": [
                 "northward_wind", 
                 "air_pressure_at_sea_level", 
@@ -2503,14 +2503,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell6.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell6.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell6.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell6.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell6.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell6.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2524,7 +2524,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/bcdc8951-36b5-4c5c-8e16-470dff2dfdd9", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/bcdc8951-36b5-4c5c-8e16-470dff2dfdd9", 
             "variablesMeasured": [
                 "northward_wind", 
                 "air_pressure_at_sea_level", 
@@ -2554,14 +2554,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell7.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell7.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell7.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell7.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell7.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell7.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2575,7 +2575,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/0548a905-820b-48b0-b0db-b27c3863b3cc", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/0548a905-820b-48b0-b0db-b27c3863b3cc", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -2627,14 +2627,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell8.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell8.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell8.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell8.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell8.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell8.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2648,7 +2648,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/7480eb53-f92a-4ed1-a1f8-1b7a388c5ece", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/7480eb53-f92a-4ed1-a1f8-1b7a388c5ece", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -2700,14 +2700,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell9.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell9.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell9.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell9.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.georges_und_adcirc_redfreqpowell9.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.georges_und_adcirc_redfreqpowell9.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2721,7 +2721,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/0d858c9d-a16b-4ad5-9a8d-81adfa9ec220", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/0d858c9d-a16b-4ad5-9a8d-81adfa9ec220", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -2773,14 +2773,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_2dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.irene_und_adcirc_2dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.irene_und_adcirc_2dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.irene_und_adcirc_2dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.irene_und_adcirc_2dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2794,7 +2794,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/93a6bd62-2147-4764-b67c-66fe0326a114", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/93a6bd62-2147-4764-b67c-66fe0326a114", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -2846,14 +2846,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_paranowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_paranowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.irene_und_adcirc_paranowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.irene_und_adcirc_paranowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.irene_und_adcirc_paranowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.irene_und_adcirc_paranowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2867,7 +2867,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/d4eccbc9-00ee-4a5a-8dc2-e46c806c8a65", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/d4eccbc9-00ee-4a5a-8dc2-e46c806c8a65", 
             "variablesMeasured": [
                 "time_of_maximum_water_velocity", 
                 "maximum_wind", 
@@ -2909,14 +2909,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.irene_und_adcirc_parawave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.irene_und_adcirc_parawave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -2930,7 +2930,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/790fb86c-9c4f-4f74-ad6c-afd08268bf31", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/790fb86c-9c4f-4f74-ad6c-afd08268bf31", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -2982,14 +2982,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawaveredu078.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawaveredu078.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawaveredu078.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.irene_und_adcirc_parawaveredu078.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawaveredu078.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.irene_und_adcirc_parawaveredu078.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3003,7 +3003,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/4b678315-1290-4ee8-8b86-0f280befcb1b", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/4b678315-1290-4ee8-8b86-0f280befcb1b", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -3055,14 +3055,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawaveredu078wave2.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawaveredu078wave2.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawaveredu078wave2.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.irene_und_adcirc_parawaveredu078wave2.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.irene_und_adcirc_parawaveredu078wave2.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.irene_und_adcirc_parawaveredu078wave2.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3076,7 +3076,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/c658a112-b1cb-4807-99c9-8c0fdd9dc3f2", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/c658a112-b1cb-4807-99c9-8c0fdd9dc3f2", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -3128,14 +3128,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.sandy_und_adcirc_2dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/pr_inundation.sandy_und_adcirc_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.sandy_und_adcirc_2dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.sandy_und_adcirc_2dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/pr_inundation.sandy_und_adcirc_2dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/pr_inundation.sandy_und_adcirc_2dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3149,7 +3149,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/70bc4d02-0ab0-4e99-97ef-ce1b227d2698", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/70bc4d02-0ab0-4e99-97ef-ce1b227d2698", 
             "variablesMeasured": [
                 "time_of_maximum_water_velocity", 
                 "maximum_wind", 
@@ -3191,14 +3191,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_mdl_slosh_egm3.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_mdl_slosh_egm3.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_mdl_slosh_egm3.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_mdl_slosh_egm3.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_mdl_slosh_egm3.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_mdl_slosh_egm3.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3212,7 +3212,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/421ae11b-7e27-4723-8be3-4296d697a91a", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/421ae11b-7e27-4723-8be3-4296d697a91a", 
             "variablesMeasured": [
                 "northward_wind", 
                 "water_surface_height_above_reference_datum", 
@@ -3240,14 +3240,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_2dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_2dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_und_adcirc_2dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_2dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_und_adcirc_2dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3261,7 +3261,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/ed85abea-d1a5-40ac-b26e-2d52b5c7a5e1", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/ed85abea-d1a5-40ac-b26e-2d52b5c7a5e1", 
             "variablesMeasured": [
                 "maximum_wind", 
                 "maximum_water_velocity", 
@@ -3300,14 +3300,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_2dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_2dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_und_adcirc_2dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_2dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_und_adcirc_2dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3321,7 +3321,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/2675f509-a521-47fb-81c2-418baf415ecb", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/2675f509-a521-47fb-81c2-418baf415ecb", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -3370,14 +3370,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_3dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_3dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_3dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_und_adcirc_3dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_3dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_und_adcirc_3dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3391,7 +3391,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/780b1d68-0fb2-477a-a728-96a768a5d43c", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/780b1d68-0fb2-477a-a728-96a768a5d43c", 
             "variablesMeasured": [
                 "maximum_wind", 
                 "maximum_water_velocity", 
@@ -3430,14 +3430,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_3dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_3dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_3dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_und_adcirc_3dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_und_adcirc_3dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_und_adcirc_3dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3451,7 +3451,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/95a7fb5b-6b1f-47e0-8b4e-1758461eec72", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/95a7fb5b-6b1f-47e0-8b4e-1758461eec72", 
             "variablesMeasured": [
                 "radiation_stress_gradient_y", 
                 "radiation_stress_gradient_x", 
@@ -3500,14 +3500,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_slosh_egl3.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_slosh_egl3.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_und_slosh_egl3.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_und_slosh_egl3.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_und_slosh_egl3.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_und_slosh_egl3.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3521,7 +3521,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/9b024a58-9428-4233-8c60-2d3b06087d26", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/9b024a58-9428-4233-8c60-2d3b06087d26", 
             "variablesMeasured": [
                 "maximum_sea_surface_height_above_geoid", 
                 "pressure_gradient_x", 
@@ -3555,14 +3555,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_slosh_egm3.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_und_slosh_egm3.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_und_slosh_egm3.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_und_slosh_egm3.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_und_slosh_egm3.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_und_slosh_egm3.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3576,7 +3576,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/9115bb9f-930f-4349-95f5-366796db7b44", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/9115bb9f-930f-4349-95f5-366796db7b44", 
             "variablesMeasured": [
                 "maximum_sea_surface_height_above_geoid", 
                 "pressure_gradient_x", 
@@ -3610,14 +3610,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_2dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_2dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_usf_fvcom_2dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_2dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_usf_fvcom_2dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3631,7 +3631,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/4744e968-71f7-4ae6-a91d-473f9ed53fd1", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/4744e968-71f7-4ae6-a91d-473f9ed53fd1", 
             "variablesMeasured": [
                 "ocean_sigma/general_coordinate", 
                 "maximum_sea_surface_height_above_geoid", 
@@ -3660,14 +3660,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_2dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_2dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_usf_fvcom_2dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_2dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_usf_fvcom_2dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3681,7 +3681,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/113c8bdd-7cfa-4383-8c67-b7df2e52669a", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/113c8bdd-7cfa-4383-8c67-b7df2e52669a", 
             "variablesMeasured": [
                 "ocean_sigma/general_coordinate", 
                 "maximum_sea_surface_height_above_geoid", 
@@ -3710,14 +3710,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_3dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_3dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_3dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_usf_fvcom_3dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_3dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_usf_fvcom_3dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3731,7 +3731,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/8c252597-dd74-4cfd-a403-52360f2b5cb9", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/8c252597-dd74-4cfd-a403-52360f2b5cb9", 
             "variablesMeasured": [
                 "ocean_sigma/general_coordinate", 
                 "maximum_sea_surface_height_above_geoid", 
@@ -3760,14 +3760,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_3dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_3dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_3dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_usf_fvcom_3dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_usf_fvcom_3dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_usf_fvcom_3dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3781,7 +3781,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/63680123-b365-4576-94c8-40d54692ef41", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/63680123-b365-4576-94c8-40d54692ef41", 
             "variablesMeasured": [
                 "ocean_sigma/general_coordinate", 
                 "maximum_sea_surface_height_above_geoid", 
@@ -3810,14 +3810,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_swan_2dsurge.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_swan_2dsurge.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_usf_swan_2dsurge.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_usf_swan_2dsurge.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_usf_swan_2dsurge.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_usf_swan_2dsurge.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3831,7 +3831,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/81f77b28-bbbd-433d-9c1d-7a9f8e443558", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/81f77b28-bbbd-433d-9c1d-7a9f8e443558", 
             "variablesMeasured": [
                 "sea_surface_wave_significant_height", 
                 "latitude", 
@@ -3858,14 +3858,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_swan_nosurge.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.ike_usf_swan_nosurge.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_usf_swan_nosurge.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_usf_swan_nosurge.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.ike_usf_swan_nosurge.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.ike_usf_swan_nosurge.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3879,7 +3879,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/1f876ff3-829e-4540-b142-b881f9ce6c12", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/1f876ff3-829e-4540-b142-b881f9ce6c12", 
             "variablesMeasured": [
                 "sea_surface_wave_significant_height", 
                 "latitude", 
@@ -3902,14 +3902,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_mdl_slosh_egm3.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_mdl_slosh_egm3.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_mdl_slosh_egm3.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_mdl_slosh_egm3.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_mdl_slosh_egm3.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_mdl_slosh_egm3.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3923,7 +3923,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/2e3699b3-062f-4b68-995e-c77db7a384ba", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/2e3699b3-062f-4b68-995e-c77db7a384ba", 
             "variablesMeasured": [
                 "northward_wind", 
                 "water_surface_height_above_reference_datum", 
@@ -3947,14 +3947,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_2dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_2dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_und_adcirc_2dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_2dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_und_adcirc_2dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -3968,7 +3968,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/0c098eb0-f3bc-4bc4-a74b-b10314f951eb", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/0c098eb0-f3bc-4bc4-a74b-b10314f951eb", 
             "variablesMeasured": [
                 "mesh_topology", 
                 "depth below geoid", 
@@ -3993,14 +3993,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_2dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_2dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_und_adcirc_2dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_2dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_und_adcirc_2dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4014,7 +4014,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/cff54d2b-0df6-40e0-9a72-8b4cedcf0bf3", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/cff54d2b-0df6-40e0-9a72-8b4cedcf0bf3", 
             "variablesMeasured": [
                 "mesh_topology", 
                 "depth below geoid", 
@@ -4039,14 +4039,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_3dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_3dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_3dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_und_adcirc_3dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_3dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_und_adcirc_3dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4060,7 +4060,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/10cb208d-b0fa-455a-9885-3e7445d5d1f5", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/10cb208d-b0fa-455a-9885-3e7445d5d1f5", 
             "variablesMeasured": [
                 "mesh_topology", 
                 "depth below geoid", 
@@ -4085,14 +4085,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_3dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_3dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_3dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_und_adcirc_3dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_und_adcirc_3dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_und_adcirc_3dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4106,7 +4106,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/b6f54842-5c1b-4754-a73a-bdeaf56224d0", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/b6f54842-5c1b-4754-a73a-bdeaf56224d0", 
             "variablesMeasured": [
                 "mesh_topology", 
                 "depth below geoid", 
@@ -4131,14 +4131,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_und_slosh_ebp3.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_und_slosh_ebp3.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_und_slosh_ebp3.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_und_slosh_ebp3.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_und_slosh_ebp3.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_und_slosh_ebp3.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4152,7 +4152,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f3f04909-b01b-4aee-bc42-22968227203a", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/f3f04909-b01b-4aee-bc42-22968227203a", 
             "variablesMeasured": [
                 "maximum_sea_surface_height_above_geoid", 
                 "pressure_gradient_x", 
@@ -4182,14 +4182,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_und_slosh_egm3.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_und_slosh_egm3.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_und_slosh_egm3.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_und_slosh_egm3.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_und_slosh_egm3.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_und_slosh_egm3.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4203,7 +4203,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/876bec7b-2378-4f59-ac53-29ab8c782b21", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/876bec7b-2378-4f59-ac53-29ab8c782b21", 
             "variablesMeasured": [
                 "maximum_sea_surface_height_above_geoid", 
                 "pressure_gradient_x", 
@@ -4233,14 +4233,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_2dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_2dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_usf_fvcom_2dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_2dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_usf_fvcom_2dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4254,7 +4254,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/2b03189c-f73b-45ab-b9c3-56cca3d141ad", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/2b03189c-f73b-45ab-b9c3-56cca3d141ad", 
             "variablesMeasured": [
                 "ocean_sigma/general_coordinate", 
                 "longitude", 
@@ -4278,14 +4278,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_2dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_2dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_usf_fvcom_2dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_2dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_usf_fvcom_2dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4299,7 +4299,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/bd715167-f87a-4aee-89c3-4efb9ff9c1f9", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/bd715167-f87a-4aee-89c3-4efb9ff9c1f9", 
             "variablesMeasured": [
                 "ocean_sigma/general_coordinate", 
                 "longitude", 
@@ -4323,14 +4323,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_3dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_3dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_3dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_usf_fvcom_3dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_3dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_usf_fvcom_3dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4344,7 +4344,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f39ec719-0ecf-4ae3-a601-6c36c6ee95dc", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/f39ec719-0ecf-4ae3-a601-6c36c6ee95dc", 
             "variablesMeasured": [
                 "ocean_sigma/general_coordinate", 
                 "longitude", 
@@ -4368,14 +4368,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_3dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_3dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_3dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_usf_fvcom_3dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_usf_fvcom_3dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_usf_fvcom_3dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4389,7 +4389,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/0dc04f73-b861-40af-8478-bfaddd678ef0", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/0dc04f73-b861-40af-8478-bfaddd678ef0", 
             "variablesMeasured": [
                 "ocean_sigma/general_coordinate", 
                 "longitude", 
@@ -4413,14 +4413,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_2dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_2dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_2dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_vims_selfe_2dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_2dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_vims_selfe_2dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4434,7 +4434,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/774169cb-04e3-4293-bd78-53e09045ce5f", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/774169cb-04e3-4293-bd78-53e09045ce5f", 
             "variablesMeasured": [
                 "time"
             ], 
@@ -4453,14 +4453,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_2dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_2dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_2dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_vims_selfe_2dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_2dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_vims_selfe_2dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4474,7 +4474,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/aa4ac4d7-db41-4b6d-abc5-06e3ab592e2c", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/aa4ac4d7-db41-4b6d-abc5-06e3ab592e2c", 
             "variablesMeasured": [
                 "time"
             ], 
@@ -4493,14 +4493,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_2dwaveonly.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_2dwaveonly.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_2dwaveonly.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_vims_selfe_2dwaveonly.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_2dwaveonly.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_vims_selfe_2dwaveonly.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4514,7 +4514,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/c07d5255-7ed2-4515-aac5-35b2ebbafcef", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/c07d5255-7ed2-4515-aac5-35b2ebbafcef", 
             "variablesMeasured": [
                 "latitude", 
                 "longitude", 
@@ -4535,14 +4535,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_3dnowave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_3dnowave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_3dnowave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_vims_selfe_3dnowave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_3dnowave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_vims_selfe_3dnowave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4556,7 +4556,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/aef2d6f9-d901-4be4-bde2-d2c69eac37ec", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/aef2d6f9-d901-4be4-bde2-d2c69eac37ec", 
             "variablesMeasured": [
                 "time"
             ], 
@@ -4575,14 +4575,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_3dwave.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_3dwave.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_3dwave.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_vims_selfe_3dwave.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/tropical_inundation.rita_vims_selfe_3dwave.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/tropical_inundation.rita_vims_selfe_3dwave.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4596,7 +4596,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/f07749b3-02bc-46a2-8346-656b0b8395a0", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/f07749b3-02bc-46a2-8346-656b0b8395a0", 
             "variablesMeasured": [
                 "time"
             ], 
@@ -4619,14 +4619,14 @@
                     "description": "File Access" 
                 },
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/usw_integration.exp16.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/usw_integration.exp16.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/usw_integration.exp16.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/usw_integration.exp16.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/usw_integration.exp16.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/usw_integration.exp16.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4640,7 +4640,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/65f14db5-84d4-4ffb-9817-d78b8a9be0ee", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/65f14db5-84d4-4ffb-9817-d78b8a9be0ee", 
             "variablesMeasured": [
                 "water_surface_height_above_reference_datum", 
                 "longitude", 
@@ -4665,14 +4665,14 @@
             "landingPage": "SHOULD_BE_PAGE_THIS_IS_USING", 
             "distributions": [
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/dodsC/noaa/ioos/comt/usw_integration.osu_roms_oregon_coast.ncml.html", 
+                    "downloadURL": "https://comt.ioos.us/thredds/dodsC/noaa/ioos/comt/usw_integration.osu_roms_oregon_coast.ncml.html", 
                     "mediaType": "text/html", 
                     "title": "OPeNDAP Dataset Access Form", 
                     "description": "OPeNDAP Dataset Access Form", 
                     "format": "HTML"
                 }, 
                 {
-                    "downloadURL": "http://thredds.comt.ioos.us/thredds/iso/noaa/ioos/comt/usw_integration.osu_roms_oregon_coast.ncml?catalog=http://thredds.comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/usw_integration.osu_roms_oregon_coast.ncml", 
+                    "downloadURL": "https://comt.ioos.us/thredds/iso/noaa/ioos/comt/usw_integration.osu_roms_oregon_coast.ncml?catalog=https://comt.ioos.us/thredds/catalog/noaa/ioos/comt/catalog.html&dataset=noaa.ioos.comt/usw_integration.osu_roms_oregon_coast.ncml", 
                     "mediaType": "application/xml", 
                     "title": "ISO 19115 Metadata", 
                     "description": "ISO 19115 Metadata", 
@@ -4686,7 +4686,7 @@
                     "format": "XML"
                 }
             ], 
-            "thumbnail": "http://thredds.comt.ioos.us/api/dataset/thumb/50f11aca-9b8f-43b1-8327-fd779b374ac9", 
+            "thumbnail": "https://comt.ioos.us/api/dataset/thumb/50f11aca-9b8f-43b1-8327-fd779b374ac9", 
             "variablesMeasured": [
                 "sea_water_potential_temperature", 
                 "longitude", 
