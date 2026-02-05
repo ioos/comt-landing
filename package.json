@@ -21,7 +21,7 @@
     "grunt-contrib-watch": "^0.6.1",
     "jade": "~1.11.0",
     "morgan": "^1.10.0",
-    "serve-favicon": "~2.3.0",
+    "serve-favicon": "^2.5.0",
     "underscore": "^1.8.3",
     "universal-analytics": "^0.5.3",
     "@bower_components/bootstrap": "twbs/bootstrap#^3.3.6",

@@ -1,5 +1,13 @@
 'use strict';
- 
+
+// Polyfill for Node 22+ where util.isRegExp was removed (used by grunt-contrib-cssmin deps)
+var util = require('util');
+if (typeof util.isRegExp !== 'function') {
+  util.isRegExp = function (arg) {
+    return Object.prototype.toString.call(arg) === '[object RegExp]';
+  };
+}
+
 module.exports = function(grunt) {
   var _ = require('underscore');
   // Project Configuration
