@@ -1,4 +1,4 @@
-FROM node:13.7.0-alpine
+FROM node:20-alpine
 LABEL maintainer="devops@rpsgroup.com"
 
 # install yarn, grunt; remove build cache
@@ -11,13 +11,13 @@ COPY bin    /opt/comt-landing/bin
 COPY public /opt/comt-landing/public
 COPY routes /opt/comt-landing/routes
 COPY views  /opt/comt-landing/views
-COPY app.js assets.json gruntfile.js package.json /opt/comt-landing/
+COPY app.js assets.json gruntfile.js package.json yarn.lock /opt/comt-landing/
 
 WORKDIR /opt/comt-landing
 RUN yarn && \
     /usr/local/lib/node_modules/grunt/bin/grunt
 
-ENV NODE_ENV production
+ENV NODE_ENV=production
 
 USER node
 
